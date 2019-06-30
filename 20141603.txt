@@ -1,0 +1,7 @@
+part-00000: https://s3-us-west-2.amazonaws.com/spclass2/sp20141603/output/part-00000
+part-00001: https://s3-us-west-2.amazonaws.com/spclass2/sp20141603/output/part-00001
+part-00002: https://s3-us-west-2.amazonaws.com/spclass2/sp20141603/output/part-00002
+part-00003: https://s3-us-west-2.amazonaws.com/spclass2/sp20141603/output/part-00003
+part-00004: https://s3-us-west-2.amazonaws.com/spclass2/sp20141603/output/part-00004
+part-00005: https://s3-us-west-2.amazonaws.com/spclass2/sp20141603/output/part-00005
+part-00006: https://s3-us-west-2.amazonaws.com/spclass2/sp20141603/output/part-00006
